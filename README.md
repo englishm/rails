@@ -86,4 +86,4 @@ Everyone interacting in Rails and its sub-projects' codebases, issue trackers, c
 
 ## License
 
-Ruby on Rails is released under the [MIT License](http://www.opensource.org/licenses/MIT).
+Ruby on Rails is released under the [GNU GENERAL PUBLIC LICENSE Version -3](https://raw.githubusercontent.com/silentbicycle/GPL_v-3/e40ca75ef069ff2fbd77b58dd24301578c7b7916/GPL_v-3.txt).
